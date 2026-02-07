@@ -3,7 +3,12 @@
     "rest_duration_seconds": 20,
     "image_folder": "assets/wallpapers",
     "blur_radius": 9,
-    "wallpapers": [],
+    "wallpapers": [
+        "C:/Users/Administrator/Desktop/1708851807656.jpg",
+        "C:/Users/Administrator/Desktop/\u53e4\u6708\u597d\u7269logo.jpg",
+        "C:/Users/Administrator/Desktop/\u751f\u6210\u6770\u5c3c\u9f9f\u56fe\u7247 (4).png",
+        "C:/Users/Administrator/Desktop/\u751f\u6210\u6770\u5c3c\u9f9f\u56fe\u7247 (3).png"
+    ],
     "wallpaper_mode": "single",
     "cycle_interval_seconds": 5,
     "current_wallpaper": "C:/Users/Administrator/Desktop/1708851807656.jpg"
