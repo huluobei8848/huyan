@@ -1,0 +1,10 @@
+{
+    "work_interval_minutes": 1,
+    "rest_duration_seconds": 20,
+    "image_folder": "assets/wallpapers",
+    "blur_radius": 9,
+    "wallpapers": [],
+    "wallpaper_mode": "single",
+    "cycle_interval_seconds": 5,
+    "current_wallpaper": "C:/Users/Administrator/Desktop/1708851807656.jpg"
+}
